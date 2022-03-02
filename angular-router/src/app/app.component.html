@@ -1,0 +1,28 @@
+<!-- <h3>Router</h3>
+<ul>
+  <li routerLink="home"><a href="">Home</a></li>
+  <li routerLink="contactus">Contact Us</li>
+  <li routerLink="aboutus">About Us</li>
+</ul> -->
+
+<nav class="navbar navbar-expand-lg navbar-light bg-light">
+  <a class="navbar-brand p-3" routerLink="home"href="#">Zomato</a>
+  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
+    <span class="navbar-toggler-icon"></span>
+  </button>
+  <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
+    <div class="navbar-nav">
+      <a class="nav-item nav-link" routerLink="home"href="#">Home</a>
+      <a class="nav-item nav-link" routerLink="products"href="#">Products</a>
+      <a class="nav-item nav-link" routerLink="aboutus"href="#">About Us</a>
+      <a class="nav-item nav-link" routerLink="contactus"href="#">Contact Us</a>
+      <a class="nav-item nav-link" routerLink="cart"href="#">View Cart</a>
+    </div>
+  </div>
+</nav>
+<img class="card-img-top" src="https://b.zmtcdn.com/web_assets/81f3ff974d82520780078ba1cfbd453a1583259680.png"
+        alt="Card image cap" style="height: 400px;">
+
+<router-outlet></router-outlet>
+
+
