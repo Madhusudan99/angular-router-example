@@ -1,0 +1,91 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Grill Villa",
+      "imageUrl": "https://b.zmtcdn.com/data/dish_photos/68c/588d87320998eb972aee99ca23ff468c.jpg?output-format=webp"
+    },
+    {
+      "id": 2,
+      "name": "The Choclate Room",
+      "imageUrl": "https://b.zmtcdn.com/data/dish_photos/152/4d93e6093783923ada036c1ca2ac2152.jpg?output-format=webp"
+    },
+    {
+      "id": 3,
+      "name": "Danny's Coffee Bar",
+      "imageUrl": "https://b.zmtcdn.com/data/dish_photos/1ee/f9604a020fcb50d85266b9801f0221ee.png?output-format=webp"
+    }
+  ],
+  "cart": [
+    {
+      "id": 1,
+      "name": "Grill Villa",
+      "imageUrl": "https://b.zmtcdn.com/data/dish_photos/68c/588d87320998eb972aee99ca23ff468c.jpg?output-format=webp"
+    },
+    {
+      "id": 64,
+      "name": "Grill Villa",
+      "imageUrl": "https://b.zmtcdn.com/data/dish_photos/68c/588d87320998eb972aee99ca23ff468c.jpg?output-format=webp"
+    },
+    {
+      "id": 48,
+      "name": "The Choclate Room",
+      "imageUrl": "https://b.zmtcdn.com/data/dish_photos/152/4d93e6093783923ada036c1ca2ac2152.jpg?output-format=webp"
+    },
+    {
+      "id": 25,
+      "name": "Grill Villa",
+      "imageUrl": "https://b.zmtcdn.com/data/dish_photos/68c/588d87320998eb972aee99ca23ff468c.jpg?output-format=webp"
+    },
+    {
+      "id": 20,
+      "name": "The Choclate Room",
+      "imageUrl": "https://b.zmtcdn.com/data/dish_photos/152/4d93e6093783923ada036c1ca2ac2152.jpg?output-format=webp"
+    },
+    {
+      "id": 70,
+      "name": "Grill Villa",
+      "imageUrl": "https://b.zmtcdn.com/data/dish_photos/68c/588d87320998eb972aee99ca23ff468c.jpg?output-format=webp"
+    },
+    {
+      "id": 71,
+      "name": "The Choclate Room",
+      "imageUrl": "https://b.zmtcdn.com/data/dish_photos/152/4d93e6093783923ada036c1ca2ac2152.jpg?output-format=webp"
+    },
+    {
+      "id": 4,
+      "name": "Grill Villa",
+      "imageUrl": "https://b.zmtcdn.com/data/dish_photos/68c/588d87320998eb972aee99ca23ff468c.jpg?output-format=webp"
+    },
+    {
+      "id": 24,
+      "name": "The Choclate Room",
+      "imageUrl": "https://b.zmtcdn.com/data/dish_photos/152/4d93e6093783923ada036c1ca2ac2152.jpg?output-format=webp"
+    },
+    {
+      "id": 68,
+      "name": "Grill Villa",
+      "imageUrl": "https://b.zmtcdn.com/data/dish_photos/68c/588d87320998eb972aee99ca23ff468c.jpg?output-format=webp"
+    },
+    {
+      "id": 34,
+      "name": "Danny's Coffee Bar",
+      "imageUrl": "https://b.zmtcdn.com/data/dish_photos/1ee/f9604a020fcb50d85266b9801f0221ee.png?output-format=webp"
+    },
+    {
+      "id": 32,
+      "name": "The Choclate Room",
+      "imageUrl": "https://b.zmtcdn.com/data/dish_photos/152/4d93e6093783923ada036c1ca2ac2152.jpg?output-format=webp"
+    },
+    {
+      "id": 54,
+      "name": "Grill Villa",
+      "imageUrl": "https://b.zmtcdn.com/data/dish_photos/68c/588d87320998eb972aee99ca23ff468c.jpg?output-format=webp"
+    },
+    {
+      "id": 83,
+      "name": "Danny's Coffee Bar",
+      "imageUrl": "https://b.zmtcdn.com/data/dish_photos/1ee/f9604a020fcb50d85266b9801f0221ee.png?output-format=webp"
+    }
+  ]
+}
